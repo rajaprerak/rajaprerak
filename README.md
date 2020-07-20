@@ -1,16 +1,15 @@
-### Hi there 👋
-- 😄 See my portfolio website: https://rajaprerak.github.io/
-<!--
-**rajaprerak/rajaprerak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" alt="Coder GIF" width="450" height="370">
 
-Here are some ideas to get you started:
+### Hi there, I am Prerak Raja 👋
+[![Linkedin Badge](https://img.shields.io/badge/-rajaprerak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajaprerak/)](https://www.linkedin.com/in/rajaprerak/)
+[![Gmail Badge](https://img.shields.io/badge/-rajaprerak@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rajaprerak@gmail.com)](mailto:rajaprerak@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 See my portfolio website: https://rajaprerak.github.io/
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me anything 😎
+- 🎯 Portfolio website: [Portfolio](https://rajaprerak.github.io/)
+- ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
+
+💻 Things I love
+- Python 💪
+- Backend Development ✍️
+- Machine Learning 🧐
+- Data Science 😬
