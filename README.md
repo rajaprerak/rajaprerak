@@ -14,7 +14,7 @@
 - Data Science 😬
 
 <p>
-    <a href="https://gitstats.me/rajaprerak"> 
+    <a href="https://gitstats.me/rajaprerak" target="_blank"> 
         <img src="https://github-readme-stats.vercel.app/api?username=rajaprerak&&show_icons=true&hi&theme=radical">
     </a>
 </p>
