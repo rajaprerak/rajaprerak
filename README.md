@@ -14,7 +14,5 @@
 - Data Science 😬
 
 <p>
-<a href="https://github.com/anuraghazra/github-readme-stats"> 
     <img src="https://github-readme-stats.vercel.app/api?username=rajaprerak&&show_icons=true&hi&theme=radical">
-  </a>
 </p>
