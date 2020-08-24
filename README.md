@@ -12,3 +12,8 @@
 - Backend Development ✍️
 - Machine Learning 🧐
 - Data Science 😬
+<p align="center" >
+<a href="https://github.com/anuraghazra/github-readme-stats"> 
+    <img src="https://github-readme-stats.vercel.app/api?username=rajaprerak&&show_icons=true&hide_border=true" align=left>
+  </a>
+</p>
