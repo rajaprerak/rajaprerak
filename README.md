@@ -14,5 +14,7 @@
 - Data Science 😬
 
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=rajaprerak&&show_icons=true&hi&theme=radical">
+    <a href="https://gitstats.me/rajaprerak"> 
+        <img src="https://github-readme-stats.vercel.app/api?username=rajaprerak&&show_icons=true&hi&theme=radical">
+    </a>
 </p>
