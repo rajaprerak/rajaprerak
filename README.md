@@ -15,6 +15,6 @@
 
 <p>
     <a href="https://gitstats.me/rajaprerak" target="_blank"> 
-        <img src="https://github-readme-stats.vercel.app/api?username=rajaprerak&&show_icons=true&hi&theme=radical">
+        <img src="https://github-readme-stats.vercel.app/api?username=rajaprerak&&show_icons=true&hi&theme=radical" width="500">
     </a>
 </p>
