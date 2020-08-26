@@ -1,5 +1,7 @@
 <img align="right" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" alt="Coder GIF" width="420" height="330">
 
+
+
 ### Hi there, I am Prerak Raja 👋
 [![Linkedin Badge](https://img.shields.io/badge/-rajaprerak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajaprerak/)](https://www.linkedin.com/in/rajaprerak/)
 [![Gmail Badge](https://img.shields.io/badge/-rajaprerak@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rajaprerak@gmail.com)](mailto:rajaprerak@gmail.com) 
@@ -12,6 +14,11 @@
 - Backend Development ✍️
 - Machine Learning 🧐
 - Data Science 😬
+
+<a href="https://gitstats.me/rajaprerak">
+    <img width="420" height="auto" align="right" alt="Joykishan's github stats" 
+    src="https://github-readme-stats.vercel.app/api?username=rajaprerak&show_icons=true&theme=algolia&count_private=true" />
+</a>
 
 🛠**Tech Stack**
 
@@ -32,11 +39,5 @@
 ![Keras](https://img.shields.io/badge/-Keras-000000?style=flat&logo=keras)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-000000?style=flat&logo=opencv)
 ![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=aws&logoColor=FCC624)
-<p>
-<a href="https://gitstats.me/rajaprerak">
-    <img width="440" height="auto" align="left" alt="Joykishan's github stats" 
-    src="https://github-readme-stats.vercel.app/api?username=rajaprerak&show_icons=true&theme=algolia&count_private=true" />
-</a>
-</p>
 
 
