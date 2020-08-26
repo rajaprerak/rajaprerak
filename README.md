@@ -14,12 +14,10 @@
 - Data Science 😬
 
 <p>
-    <a href="https://gitstats.me/rajaprerak" target="_blank"> 
-        <img src="https://github-readme-stats.vercel.app/api?username=rajaprerak&&show_icons=true" width="440">
+    <a href="https://gitstats.me/rajaprerak">
+        <img width="440" height="auto" align="left" alt="Joykishan's github stats" 
+        src="https://github-readme-stats.vercel.app/api?username=rajaprerak&show_icons=true&theme=algolia&count_private=true" />
     </a>
 </p>
-<a href="https://gitstats.me/rajaprerak">
-    <img width="440" height="auto" align="left" alt="Joykishan's github stats" 
-    src="https://github-readme-stats.vercel.app/api?username=rajaprerak&show_icons=true&theme=algolia&count_private=true" />
- </a>
+
 
