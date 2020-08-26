@@ -36,8 +36,8 @@
 
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-000000?style=flat&logo=tensorflow)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000000?style=flat&logo=pytorch)
-![Keras](https://img.shields.io/badge/-Keras-000000?style=flat&logo=keras)
+![Keras](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-000000?style=flat&logo=opencv)
-![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=aws&logoColor=FCC624)
+![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazon-aws)
 
 
