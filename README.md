@@ -7,13 +7,13 @@
 - 🎯 Portfolio website: [Portfolio](https://rajaprerak.github.io/)
 - ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
 
-💻 Things I love
+💻 **Things I love**
 - Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - Backend Development ✍️
 - Machine Learning 🧐
 - Data Science 😬
 
-**Tech Stack**
+🛠**Tech Stack**
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=Django)
@@ -25,13 +25,14 @@
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
-![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=aws&logoColor=FCC624)
+![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku)
 
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-000000?style=flat&logo=tensorflow)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000000?style=flat&logo=pytorch)
 ![Keras](https://img.shields.io/badge/-Keras-000000?style=flat&logo=keras)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-000000?style=flat&logo=opencv)
-![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku)
+![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=aws&logoColor=FCC624)
+
 
 <p>
     <a href="https://gitstats.me/rajaprerak">
