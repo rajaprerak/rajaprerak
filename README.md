@@ -1,4 +1,4 @@
-<img align="right" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" alt="Coder GIF" width="420" height="330">
+<img align="right" src="Developer.gif" alt="Coder GIF" width="420" height="330">
 
 
 
