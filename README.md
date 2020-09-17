@@ -17,7 +17,7 @@
 
 <a href="https://gitstats.me/rajaprerak">
     <img width="420" height="auto" align="right" alt="Prerak's github stats" 
-    src="https://github-readme-stats.vercel.app/api?username=rajaprerak&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
+    src="https://github-readme-stats.vercel.app/api?username=rajaprerak&show_icons=true&theme=dark&count_private=false&include_all_commits=true" />
 </a>
 
 🛠**Tech Stack**
