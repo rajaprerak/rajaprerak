@@ -15,11 +15,10 @@
 - Machine Learning 🧐
 - Data Science 😬
 
-<a href="https://gitstats.me/rajaprerak">
-    <img width="420" height="auto" align="right" alt="Prerak's github stats" 
-    src="https://github-readme-stats.vercel.app/api?username=rajaprerak&show_icons=true&theme=dark&count_private=false&include_all_commits=true" />
-</a>
-
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=rajaprerak&show_icons=true&theme=dark&border_color=61dafb&hide_border=true" />
+    </a>
+    
 🛠**Tech Stack**
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
